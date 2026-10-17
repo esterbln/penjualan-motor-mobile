@@ -10,11 +10,11 @@ Aplikasi mobile penjualan motor yang dibuat dengan **Flutter**. Aplikasi ini ada
 
 | Transaksi Admin | Transaksi User |
 | --- | --- |
-| ![Transaksi Admin](tipe_motor_admin.png) | ![Transaksi User](transaksi_user.png) |
+| ![Transaksi Admin](transaksi_admin.png) | ![Transaksi User](transaksi_user.png) |
 
 | Tipe Motor | Dashboard Admin |
 | --- | --- |
-| ![Tipe Motor](transaksi_admin.png) | ![Dashboard Admin](dashboard_admin.png) |
+| ![Tipe Motor](tipe_motor_admin.png) | ![Dashboard Admin](dashboard_admin.png) |
 
 ## Fitur
 
