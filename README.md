@@ -2,8 +2,6 @@
 
 Aplikasi mobile penjualan motor yang dibuat dengan **Flutter**. Aplikasi ini adalah klien mobile dari backend [`penjualan-motor-api`](https://github.com/esterbln/penjualan-motor-api): semua data (pengguna, tipe motor, motor, pembayaran) diambil dan disimpan lewat API tersebut. Versi web dengan fungsi yang sama ada di [`penjualan-motor-frontend`](https://github.com/esterbln/penjualan-motor-frontend).
 
-Proyek ini berawal dari UAS kuliah Pemrograman IV, lalu saya rapikan agar bisa dijalankan ulang oleh siapa pun.
-
 ## Fitur
 
 **Umum**
