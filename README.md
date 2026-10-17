@@ -2,6 +2,20 @@
 
 Aplikasi mobile penjualan motor yang dibuat dengan **Flutter**. Aplikasi ini adalah klien mobile dari backend [`penjualan-motor-api`](https://github.com/esterbln/penjualan-motor-api): semua data (pengguna, tipe motor, motor, pembayaran) diambil dan disimpan lewat API tersebut. Versi web dengan fungsi yang sama ada di [`penjualan-motor-frontend`](https://github.com/esterbln/penjualan-motor-frontend).
 
+## Tampilan
+
+| Login | Daftar film |
+| --- | --- |
+| ![Halaman login](login.png) | ![Daftar film user](dashboard_user.png) |
+
+| Transaksi Admin | Transaksi User |
+| --- | --- |
+| ![Transaksi Admin](transaksi_admin.png) | ![Transaksi User](transaksi_user.png) |
+
+| Genre Admin | Movie Admin |
+| --- | --- |
+| ![Genre Admin](genre_admin.png) | ![Movie Admin](movie_admin.png) |
+
 ## Fitur
 
 **Umum**
