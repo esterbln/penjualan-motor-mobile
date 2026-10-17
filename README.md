@@ -4,17 +4,17 @@ Aplikasi mobile penjualan motor yang dibuat dengan **Flutter**. Aplikasi ini ada
 
 ## Tampilan
 
-| Login | Daftar film |
-| --- | --- |
-| ![Halaman login](login.png) | ![Daftar film user](dashboard_user.png) |
+| Login | Daftar Motor (User) | Daftar Motor (Admin) |
+| --- | --- | --- |
+| ![Halaman login](login.png) | ![Daftar motor user](dashboard_user.png) | ![Daftar motor admin](jenis_motor.png) |
 
 | Transaksi Admin | Transaksi User |
 | --- | --- |
 | ![Transaksi Admin](transaksi_admin.png) | ![Transaksi User](transaksi_user.png) |
 
-| Genre Admin | Movie Admin |
+| Tipe Motor | Dashboard Admin |
 | --- | --- |
-| ![Genre Admin](genre_admin.png) | ![Movie Admin](movie_admin.png) |
+| ![Tipe Motor](tipe_motor_admin.png) | ![Dashboard Admin](dashboard_admin.png) |
 
 ## Fitur
 
